@@ -8,7 +8,7 @@ print("Bienvenido a Empresas Camisuchis")
 salario_bruto = int(input("Ingrese el salario bruto del empleado: "))
 camisas_vendidas = int(input("Ingrese la cantidad de camisas vendidas: "))
 
-cantidad_empleados = 10
+cantidad_empleados = 15
 
 for empleado in range(cantidad_empleados):
     if salario_bruto > 1000000:
