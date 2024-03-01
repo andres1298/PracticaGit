@@ -24,4 +24,4 @@ for empleado in range(cantidad_empleados):
 
 
     salario_neto = salario_bruto - seguro_salud - impuesto_renta + regalias
-    print(f"El salario total del empleado es: {salario_neto}")
+    print(f"Salario total del empleado a  final de mes es: {salario_neto}")
