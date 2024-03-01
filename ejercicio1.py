@@ -9,6 +9,8 @@ salario_bruto = int(input("Ingrese el salario bruto del empleado: "))
 camisas_vendidas = int(input("Ingrese la cantidad de camisas vendidas: "))
 
 if salario_bruto > 1000000:
+
+    
     seguro_salud = salario_bruto * 0.08
     impuesto_renta = salario_bruto * 0.12
     costo_camisa = 15000
